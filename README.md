@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vbarb003
-- 👀 I’m interested in finance, traveling, data analysis, and the cloud.
-- 🌱 I’m currently learning Python, R, and working with datasets focusing on cybercrimes.
-- 💞️ I’m looking to collaborate on ... everything ...
+- 👀 I’m interested in finance, law, political science, and environmental ethics.
+- 🌱 I’m currently learning Python and C++. 
 - 📫 How to reach me vbarb003@gmail.com
 
 <!---
